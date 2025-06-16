@@ -56,8 +56,8 @@
 ## 📫 Connect With Me  
 
 - 🌐 [Portfolio Website](your-portfolio-link) *(coming soon!)*  
-- 💼 [LinkedIn](your-linkedin-link)  
-- 📧 Email: yourname@email.com  
+- 💼 [LinkedIn] *(coming soon!)*  
+- 📧 Email: 03mfundo@gmail.com  
 
 ---
 
