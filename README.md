@@ -64,7 +64,16 @@
 <p align="center"><em>“Turning code into meaningful impact — one line at a time.” 🚀</em></p>
 
 ---
+![GitHub followers](https://img.shields.io/github/followers/SM-DevX?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=SM-DevX&color=blue)
 
+---
+
+## 🛠️ Tech Stack  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
 ## ⚡ Fun Facts  
 
 - 🎮 Gamer & problem solver — I love challenges!  
