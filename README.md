@@ -22,7 +22,7 @@
 | Project Name | Language | Description |
 |:-------------|:---------|:------------|
 | [`Number Guesser`](https://github.com/SM-DevX/NumberGuesser) | Java | Simple number guessing game — practice your logic skills! 🎲 |
-| `Student Expense Tracker` | Python | Helps students manage monthly budgets 💸 |
+| [`Student Expense Tracker`](https://github.com/SM-DevX/StudentExpenseTracker) | Python | Helps students manage monthly budgets 💸 |
 | `Viral Project Coming Soon! 🚀` | Java/Python | Stay tuned for exciting updates |
 
 ---
