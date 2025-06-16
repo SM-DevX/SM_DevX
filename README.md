@@ -27,10 +27,9 @@
 
 ---
 
-## 🛠️ Tech Stack  
-
-- **Languages:** Java ☕, Python 🐍, HTML5, CSS3  
-- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA  
+ ## 🛠️ Tech Stack  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 - **Concepts:** Object-Oriented Programming, Algorithms, Data Structures  
 - **Currently Learning:** REST APIs, Spring Boot, React.js  
 
@@ -68,10 +67,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=SM-DevX&color=blue)
 
 ---
-
-## 🛠️ Tech Stack  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 ## ⚡ Fun Facts  
