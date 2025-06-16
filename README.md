@@ -23,6 +23,7 @@
 |:-------------|:---------|:------------|
 | [`Number Guesser`](https://github.com/SM-DevX/NumberGuesser) | Java | Simple number guessing game — practice your logic skills! 🎲 |
 | [`Student Expense Tracker`](https://github.com/SM-DevX/StudentExpenseTracker) | Python | Helps students manage monthly budgets 💸 |
+| [`Password Strength Checker`](https://github.com/SM-DevX/PasswordStrengthChecker) | Python | Check password strength using length and character types |
 | `Viral Project Coming Soon! 🚀` | Java/Python | Stay tuned for exciting updates |
 
 ---
