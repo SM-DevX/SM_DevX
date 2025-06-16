@@ -19,7 +19,7 @@
 ## 🚀 Projects Showcase
 | Project Name | Language | Description |
 |:-------------|:-----------|:----------------|
-| `Number Guesser` | Java | Simple number guessing game |
+| `Number Guesser`(https://github.com/SM-DevX/NumberGuesser) | Java | Simple number guessing game |
 | `Student Expense Tracker` | Python | Track student monthly expenses |
 | `Viral Project Coming Soon! 🚀` | Java/Python | Stay tuned |
 
